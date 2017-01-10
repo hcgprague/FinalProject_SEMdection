@@ -1,0 +1,2 @@
+./data/template_polygon/T_p1.png
+./data/template_polygon/T_p2.png

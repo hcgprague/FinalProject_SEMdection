@@ -1,0 +1,6 @@
+./data/template_space/T_S1.png
+./data/template_space/T_S2.png
+./data/template_space/T_S3.png
+./data/template_space/T_S4.png
+./data/template_space/T_S5.png
+./data/template_space/T_S6.png

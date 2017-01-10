@@ -1,0 +1,16 @@
+﻿IMAGE_TABLE	./data/metro/image_table.txt
+HIGHLIGHT_TABLE	./data/metro/highlight_window.txt
+POLYGON_TABLE	./data/metro/cell_polygon.txt
+GAUGE_TABLE	./data/metro/measure_gauge.txt
+IMAGE_MARGIN	10
+ALIGNMENT_RANGE	20
+MAX_ITERATION	100
+SCALING_RANGE	0.1
+GAUGE_EXTENSION	0
+INNER_CD_FACTOR	0.3
+OUTER_CD_FACTOR	0.7
+ASSESSMENT_TABLE	./output/sample_assessment_output.csv
+ALIGNMENT_TABLE	./output/sample_alignment_output.csv
+TEMPLATE_TABLE_POLYGON	./data/metro/template_polygon.txt
+TEMPLATE_TABLE_SPACE	./data/metro/template_space.txt
+
